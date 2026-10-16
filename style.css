@@ -21,8 +21,10 @@ a {
 }
 
 .card {
-    width: 400px;
-    height: 480px;
+    width: 80%;
+    max-width: 400px;
+    min-height: 480px;
+    height: auto;
     border: 1px solid #1e3c72;
     border-radius: 24px;
     background-color: rgba(50, 90, 150, 0.5);
@@ -72,6 +74,7 @@ h3.endereco {
 .socials a {
     margin-right: 16px;
     margin-top: -16px;
+    display: flex;
 }
 
 .socials a:last-child {
@@ -81,12 +84,15 @@ h3.endereco {
 .socials img {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 24px;
+    display: flex;
 }
 
 .socials img:hover {
     transform: scale(110%);
+    display: flex;
 }
 
 .socials img:active {
     transform: scale(103%);
+    display: flex;
 }
