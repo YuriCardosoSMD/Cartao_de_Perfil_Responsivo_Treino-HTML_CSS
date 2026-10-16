@@ -1,6 +1,6 @@
-# Linktree Pessoal | Cartão de Perfil Responsivo
+# Cartão de Perfil Responsivo
 
-Página web estática, minimalista e responsiva criada para funcionar como agregador de links pessoais e profissionais (estilo Linktree), centralizando conexões para redes sociais, portfólio e canais de contato.
+Página web estática, moderna e responsiva projetada como um cartão de perfil digital, reunindo foto de apresentação, biografia concisa e botões de acesso direto a redes profissionais, repositórios e canais de contato.
 
 ---
 
@@ -9,19 +9,19 @@ Página web estática, minimalista e responsiva criada para funcionar como agreg
 <!-- Substitua pelo link de uma captura de tela do seu projeto ou GIF -->
 ![Preview do Projeto](assets/preview.png)
 
-> **Acesse online:** [https://seu-usuario.github.io/nome-do-repositorio/](https://seu-usuario.github.io/nome-do-repositorio/)
+> 🔗 **Acesse online:** [https://seu-usuario.github.io/nome-do-repositorio/](https://seu-usuario.github.io/nome-do-repositorio/)
 
 ---
 
 ## Tecnologias e Conceitos Praticados
 
-- **HTML5 Semântico:** Estruturação limpa com `<header>`, `<main>`, `<section>` e atributos de acessibilidade (`aria-label`, `alt`).
+- **HTML5 Semântico:** Estruturação limpa com `<header>`, `<main>`, `<section>` e boas práticas de acessibilidade (`alt`, `aria-label`).
 - **CSS3 Moderno:**
   - Layout centralizado e alinhamento com **Flexbox**.
-  - Variáveis CSS (`:root`) para consistência de paleta e manutenibilidade.
+  - Variáveis CSS (`:root`) para consistência de cores e fácil manutenção.
   - Microinterações e efeitos visuais com transições e `:hover`.
-  - Contraste adequado entre tipografia e plano de fundo.
-  - Design responsivo com **Media Queries** focado no formato *mobile-first*.
+  - Contraste visual equilibrado e tipografia escalável.
+  - Design totalmente responsivo utilizando **Media Queries** focado no formato *mobile-first*.
 
 ---
 
